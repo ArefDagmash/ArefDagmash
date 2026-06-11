@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="aref_stickman.png" alt="me at my desk" width="400" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=94E2D5&center=true&vCenter=true&width=500&lines=backend+engineer;systems+developer;low-level+builder;software+engineer" alt="Typing SVG" />
 </p>
 
