@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="pc_stickman.png" alt="me at my desk" width="500" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=94E2D5&center=true&vCenter=true&width=500&lines=backend+engineer;systems+enthusiast;low-level+builder;open+source+contributor;always+learning" alt="Typing SVG" />
 </p>
 
@@ -15,10 +19,6 @@
 
 ## whoami
 
-<p align="right">
-  <img src="pc_stickman.png" alt="me at my desk" width="200" />
-</p>
-
 I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend systems** and mess with **low-level stuff** — currently rebuilding HTTP from TCP, no libraries, no shortcuts.
 
 - **Daily driver:** Nobara Linux + Niri (Wayland) + Neovim
@@ -28,10 +28,6 @@ I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend 
 ---
 
 ## stack
-
-<p align="right">
-  <img src="idea_stickman.png" alt="ideas" width="200" />
-</p>
 
 **Languages I actually use:**
 - Go — systems, networking, tooling
@@ -49,10 +45,6 @@ I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend 
 
 ## what i'm up to
 
-<p align="right">
-  <img src="coffee_stickman.png" alt="coffee break" width="200" />
-</p>
-
 **Projects & learning:**
 - Rebuilding HTTP from TCP (from scratch, zero dependencies)
 - Building CLI tools that touch the network stack
@@ -66,10 +58,6 @@ I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend 
 
 ## connect
 
-<p align="right">
-  <img src="question_stickman.png" alt="questions welcome" width="200" />
-</p>
-
 Got questions about systems, backend, or just want to chat? Hit me up.
 
 - **GitHub:** [@ArefDagmash](https://github.com/ArefDagmash)
@@ -81,12 +69,6 @@ Open to opportunities, collaborations, or random questions about systems.
 ---
 
 ## stats
-
-<p align="right">
-  <img src="stairs_stickman.png" alt="climbing" width="200" />
-</p>
-
-The climb. Always learning, always building.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArefDagmash&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
@@ -101,4 +83,4 @@ The climb. Always learning, always building.
 
 > *"The only way to do great work is to love what you do."* — not me, but it hits
 
-*(yes, all the stickmen are hand-drawn by me. no, i'm not an artist.)*
+*(yes, the stickman is hand-drawn by me. no, i'm not an artist.)*
