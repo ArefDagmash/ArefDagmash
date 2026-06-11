@@ -17,52 +17,18 @@
 
 ---
 
-## whoami
+## about
 
-I'm **Aref**. Software engineer and backend developer. I build systems from the ground up — currently rebuilding HTTP from raw TCP, no libraries, no shortcuts.
+I'm **Aref** — software engineer and backend developer. I build systems from the ground up, currently rebuilding HTTP from raw TCP with zero dependencies. Daily driver is Nobara Linux + Niri + Neovim. Go, Rust, C, Python. eBPF, async runtimes, distributed systems. Understand it from the metal up, or don't build it.
 
-- **Daily driver:** Nobara Linux + Niri (Wayland) + Neovim
-- **Currently:** eBPF, async runtimes, distributed systems
-- **Philosophy:** Understand it from the metal up, or don't build it
-
----
-
-## stack
-
-**Languages:**
-- Go — systems, networking, tooling
-- Rust — fast, safe, systems-level
-- C — when I need to know exactly what's happening
-- Python — scripting, automation
-- Java — enterprise backend
-
-**Environment:**
-- Linux (Nobara / Niri) | Fish shell | Neovim
-- Building: CLI tools, backend services, network protocols
-- Learning: eBPF, async runtimes, distributed systems
-
----
-
-## what i'm building
-
-- Rebuilding HTTP from TCP (from scratch, zero dependencies)
-- CLI tools that touch the network stack
+**Currently building:**
+- HTTP server from TCP (no libraries)
+- CLI tools touching the network stack
 - Custom Linux dev environment
-- Open source contributions
+
+**Links:** [GitHub](https://github.com/ArefDagmash) · [LinkedIn](https://www.linkedin.com/in/arefdogmosh) · [Email](mailto:arefdagmash@gmail.com)
 
 ---
-
-## connect
-
-- **GitHub:** [@ArefDagmash](https://github.com/ArefDagmash)
-- **LinkedIn:** [arefdogmosh](https://www.linkedin.com/in/arefdogmosh)
-- **Email:** [arefdagmash@gmail.com](mailto:arefdagmash@gmail.com)
-
-Open to opportunities, collaborations, or questions about systems.
-
----
-
-## contributions
 
 <p align="center">
   <picture>
@@ -73,8 +39,6 @@ Open to opportunities, collaborations, or questions about systems.
 </p>
 
 ---
-
-## stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArefDagmash&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
