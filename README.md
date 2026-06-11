@@ -21,11 +21,6 @@
 
 I'm **Aref** — software engineer and backend developer. I build systems from the ground up, currently rebuilding HTTP from raw TCP with zero dependencies. Daily driver is Nobara Linux + Niri + Neovim. Go, Rust, C, Python. eBPF, async runtimes, distributed systems. Understand it from the metal up, or don't build it.
 
-**Currently building:**
-- HTTP server from TCP (no libraries)
-- CLI tools touching the network stack
-- Custom Linux dev environment
-
 **Links:** [GitHub](https://github.com/ArefDagmash) · [LinkedIn](https://www.linkedin.com/in/arefdogmosh) · [Email](mailto:arefdagmash@gmail.com)
 
 ---
