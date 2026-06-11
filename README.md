@@ -16,57 +16,77 @@
 ## whoami
 
 <p align="right">
-  <img src="stickman_coding.png" alt="coding" width="180" />
+  <img src="pc_stickman.png" alt="me at my desk" width="150" />
 </p>
 
-I'm **Aref**, a CS student at **AUS** (graduating Spring 2026) who specializes in **backend engineering** and **low-level systems**. I daily-drive **Nobara Linux** on **Niri**, and I'm currently **rebuilding HTTP from TCP**.
+I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend systems** and mess with **low-level stuff** — currently rebuilding HTTP from TCP, no libraries, no shortcuts.
 
-I care about building fast, reliable systems — from bare metal to APIs. I like understanding how things work under the hood, and I prefer tools that stay out of the way.
+- **Daily driver:** Nobara Linux + Niri (Wayland) + Neovim
+- **Currently:** Learning eBPF, async runtimes, distributed systems
+- **Philosophy:** Understand it from the metal up, or don't build it
 
 ---
 
 ## stack
 
 <p align="right">
-  <img src="stickman_idea.png" alt="idea" width="180" />
+  <img src="idea_stickman.png" alt="ideas" width="150" />
 </p>
 
-| Category | Tools |
-|----------|-------|
-| **Languages** | Go, Rust, C, Python, Java |
-| **Environment** | Linux (Nobara / Niri) |
-| **Shell** | Fish, Bash, Zsh |
-| **Editor** | Neovim + custom config |
+**Languages I actually use:**
+- Go — systems, networking, tooling
+- Rust — when I need it fast and safe
+- C — when I need to know exactly what's happening
+- Python — scripting, automation, quick prototypes
+- Java — enterprise backend
 
-**Currently exploring:** eBPF, async runtimes, distributed systems
+**Environment:**
+- Linux (Nobara / Niri) | Fish shell | Neovim + custom config
+- Building: CLI tools, backend services, network protocols
+- Learning: eBPF, async runtimes, distributed systems
 
 ---
 
 ## what i'm up to
 
 <p align="right">
-  <img src="stickman_coffee.png" alt="coffee" width="180" />
+  <img src="coffee_stickman.png" alt="coffee break" width="150" />
 </p>
 
-- **Learning:** rebuilding HTTP from TCP (from scratch, no libraries)
-- **Building:** CLI tools, backend services, and anything that touches the network stack
-- **Daily driving:** a fully custom Linux setup (Niri + Neovim + Fish)
+**Projects & learning:**
+- Rebuilding HTTP from TCP (from scratch, zero dependencies)
+- Building CLI tools that touch the network stack
+- Maintaining a fully custom Linux dev environment
+- Contributing to open source when I can
+
+**This week:**
+- Probably coding until 3 AM and drinking too much coffee
 
 ---
 
 ## connect
 
 <p align="right">
-  <img src="stickman_confused.png" alt="confused" width="180" />
+  <img src="question_stickman.png" alt="questions welcome" width="150" />
 </p>
+
+Got questions about systems, backend, or just want to chat? Hit me up.
 
 - **GitHub:** [@ArefDagmash](https://github.com/ArefDagmash)
 - **LinkedIn:** [arefdogmosh](https://www.linkedin.com/in/arefdogmosh)
 - **Email:** [arefdagmash@gmail.com](mailto:arefdagmash@gmail.com)
 
-Open to opportunities, questions, or just chatting about systems — reach out!
+Open to opportunities, collaborations, or random questions about systems.
 
 ---
+
+## stats
+
+<p align="right">
+  <img src="stairs_stickman.png" alt="climbing" width="150" />
+</p>
+
+The climb. Always learning, always building.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArefDagmash&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
@@ -80,3 +100,5 @@ Open to opportunities, questions, or just chatting about systems — reach out!
 ---
 
 > *"The only way to do great work is to love what you do."* — not me, but it hits
+
+*(yes, all the stickmen are hand-drawn by me. no, i'm not an artist.)*
