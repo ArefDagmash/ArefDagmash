@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Stickman_for_github.png" alt="stickman drawing" width="900" />
+  <img src="Stickman_for_github.png?v=2" alt="stickman drawing" width="900" />
 </p>
 
 <p align="center">
