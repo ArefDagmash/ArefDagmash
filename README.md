@@ -76,6 +76,12 @@ The only contribution graph that matters.
   <img src="dog_contribution.svg" alt="dog chasing contributions" width="800" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArefDagmash/ArefDagmash/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArefDagmash/ArefDagmash/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArefDagmash/ArefDagmash/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ## stats
