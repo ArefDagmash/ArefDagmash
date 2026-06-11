@@ -68,6 +68,16 @@ Open to opportunities, collaborations, or random questions about systems.
 
 ---
 
+## contributions
+
+The only contribution graph that matters.
+
+<p align="center">
+  <img src="dog_contribution.svg" alt="dog chasing contributions" width="800" />
+</p>
+
+---
+
 ## stats
 
 <p align="center">
