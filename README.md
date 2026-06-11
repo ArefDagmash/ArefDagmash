@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pc_stickman.png" alt="me at my desk" width="500" />
+  <img src="aref_stickman.png" alt="me at my desk" width="400" />
 </p>
 
 <p align="center">
