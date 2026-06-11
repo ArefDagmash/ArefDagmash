@@ -1,16 +1,6 @@
-```
-    ┌─────────────┐
-    │  [>_]$ nvim │
-    │  ~/coding   │
-    └──────┬──────┘
-    ┌──────┴──────┐
-    │ (O_O)       │
-    │ /|\  /\/\/\ │
-    │ / \  |o  o| │
-    │ | |  | -- | │
-    │      \__||_/│
-    └─────────────┘
-```
+<p align="center">
+  <img src="Stickman_for_github.png" alt="stickman drawing" width="600" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=94E2D5&center=true&vCenter=true&width=500&lines=backend+engineer;systems+enthusiast;low-level+builder;open+source+contributor;always+learning" alt="Typing SVG" />
