@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="Stickman_for_github.png?v=2" alt="stickman drawing" width="900" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=94E2D5&center=true&vCenter=true&width=500&lines=backend+engineer;systems+enthusiast;low-level+builder;open+source+contributor;always+learning" alt="Typing SVG" />
 </p>
 
@@ -19,6 +15,10 @@
 
 ## whoami
 
+<p align="right">
+  <img src="stickman_coding.png" alt="coding" width="180" />
+</p>
+
 I'm **Aref**, a CS student at **AUS** (graduating Spring 2026) who specializes in **backend engineering** and **low-level systems**. I daily-drive **Nobara Linux** on **Niri**, and I'm currently **rebuilding HTTP from TCP**.
 
 I care about building fast, reliable systems — from bare metal to APIs. I like understanding how things work under the hood, and I prefer tools that stay out of the way.
@@ -26,6 +26,10 @@ I care about building fast, reliable systems — from bare metal to APIs. I like
 ---
 
 ## stack
+
+<p align="right">
+  <img src="stickman_idea.png" alt="idea" width="180" />
+</p>
 
 | Category | Tools |
 |----------|-------|
@@ -40,6 +44,10 @@ I care about building fast, reliable systems — from bare metal to APIs. I like
 
 ## what i'm up to
 
+<p align="right">
+  <img src="stickman_coffee.png" alt="coffee" width="180" />
+</p>
+
 - **Learning:** rebuilding HTTP from TCP (from scratch, no libraries)
 - **Building:** CLI tools, backend services, and anything that touches the network stack
 - **Daily driving:** a fully custom Linux setup (Niri + Neovim + Fish)
@@ -47,6 +55,10 @@ I care about building fast, reliable systems — from bare metal to APIs. I like
 ---
 
 ## connect
+
+<p align="right">
+  <img src="stickman_confused.png" alt="confused" width="180" />
+</p>
 
 - **GitHub:** [@ArefDagmash](https://github.com/ArefDagmash)
 - **LinkedIn:** [arefdogmosh](https://www.linkedin.com/in/arefdogmosh)
