@@ -27,9 +27,9 @@ I'm **Aref** — software engineer and backend developer. I build systems from t
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./contribution-graph.svg" />
-    <img alt="Contribution graph" src="./contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./pixel-contributions-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./pixel-contributions.svg" />
+    <img alt="Pixel art contributions" src="./pixel-contributions.svg" />
   </picture>
 </p>
 
