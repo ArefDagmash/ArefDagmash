@@ -16,7 +16,7 @@
 ## whoami
 
 <p align="right">
-  <img src="pc_stickman.png" alt="me at my desk" width="150" />
+  <img src="pc_stickman.png" alt="me at my desk" width="200" />
 </p>
 
 I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend systems** and mess with **low-level stuff** — currently rebuilding HTTP from TCP, no libraries, no shortcuts.
@@ -30,7 +30,7 @@ I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend 
 ## stack
 
 <p align="right">
-  <img src="idea_stickman.png" alt="ideas" width="150" />
+  <img src="idea_stickman.png" alt="ideas" width="200" />
 </p>
 
 **Languages I actually use:**
@@ -50,7 +50,7 @@ I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend 
 ## what i'm up to
 
 <p align="right">
-  <img src="coffee_stickman.png" alt="coffee break" width="150" />
+  <img src="coffee_stickman.png" alt="coffee break" width="200" />
 </p>
 
 **Projects & learning:**
@@ -67,7 +67,7 @@ I'm **Aref**, a CS student at **AUS** graduating Spring 2026. I build **backend 
 ## connect
 
 <p align="right">
-  <img src="question_stickman.png" alt="questions welcome" width="150" />
+  <img src="question_stickman.png" alt="questions welcome" width="200" />
 </p>
 
 Got questions about systems, backend, or just want to chat? Hit me up.
@@ -83,7 +83,7 @@ Open to opportunities, collaborations, or random questions about systems.
 ## stats
 
 <p align="right">
-  <img src="stairs_stickman.png" alt="climbing" width="150" />
+  <img src="stairs_stickman.png" alt="climbing" width="200" />
 </p>
 
 The climb. Always learning, always building.
