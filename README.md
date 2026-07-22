@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="aref.png" alt="me at my desk" width="400" />
+  <picture>
+    <source srcset="aref-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="aref-light.png" alt="me at my desk" width="400" />
+  </picture>
 </p>
 
 <p align="center">
