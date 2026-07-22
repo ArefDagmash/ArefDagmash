@@ -15,7 +15,7 @@
 
 ## about
 
-I'm **Aref**. I like starting projects I never finish. Nobara Linux + Niri + Neovim. Go, Rust, C, Python.
+I like starting projects I never finish. Nobara Linux + Niri + Neovim. Go, Rust, C, Python.
 
 **Links:** [GitHub](https://github.com/ArefDagmash) · [LinkedIn](https://www.linkedin.com/in/arefdogmosh) · [Email](mailto:arefdagmash@gmail.com)
 
